@@ -206,6 +206,7 @@ footer{
         align-items: center;
         & p{
             margin-bottom: 5px;
+            width: 100%;
         }
         & a{
             color: white;
